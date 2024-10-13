@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
 <h3 align="center">I am a passionate Back-end developer</h3>
 
-<h3 align="left">About Me:</h3>
-<p align="left">I am a passionate back-end developer specializing in creating robust and efficient web applications. With a solid foundation in languages such as Python, JavaScript, and frameworks like Django and Express.js, I thrive on solving complex problems and continuously improving my skills. Currently, I am focused on mastering Express.js to enhance my back-end development capabilities.</p>
-
-<h3 align="left">Current Learning:</h3>
-<p align="left">I am currently diving deeper into <strong>Express.js</strong> to build scalable and efficient web applications. I'm exploring its middleware capabilities, routing, and best practices for building RESTful APIs.</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-elsayed-24373b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-elsayed-24373b1b6/" height="30" width="40" /></a>
